@@ -10,7 +10,8 @@
 https://github.com/rumeysayuk/ReCapProject --backend  
   
 
-- 🌱 I’m currently learning c# and .net tecnologies  
+- 🌱 I’m currently learning javascript and .net tecnologies  
+
   
 
 <br/>  
