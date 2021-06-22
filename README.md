@@ -4,11 +4,7 @@
   
 
 ### <div align="center">I'm Rümeysa,ı'am software  developer 👨‍💻 ı'am interested coding since 2019 🚀</div>  
-  
 
-- 🔭 I’m currently working on car rental project https://github.com/rumeysayuk/rentAcar  --frontend
-https://github.com/rumeysayuk/ReCapProject --backend  
-  
 
 - 🌱 I’m currently learning javascript and .net tecnologies  
 
