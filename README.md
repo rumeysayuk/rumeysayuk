@@ -7,8 +7,7 @@
 
 
 - 🌱 I’m currently learning javascript and .net tecnologies  
-- 
-I am interested in natural language processing.I am using python,nltk...
+- I am interested in natural language processing.I am using python,nltk...
 
   
 
