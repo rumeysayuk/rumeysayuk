@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&theme=synthwave" alt="rumeysayuk :: Profile Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysayuk&langs_count=5&theme=tokyonight&layout=compact" alt="rumeysayuk :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysayuk&langs_count=8&theme=tokyonight&layout=compact" alt="rumeysayuk :: Top Langs" />
 </p>
 
 <br/>  
