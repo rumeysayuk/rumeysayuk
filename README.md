@@ -9,7 +9,12 @@
 - 🌱 I’m currently learning javascript and .net tecnologies  
 - ## I am interested in natural language processing.I am using python,nltk...
 
-  
+  <h2 align="center">Github stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&theme=synthwave" alt="rumeysayuk :: Profile Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysayuk&langs_count=10&theme=tokyonight&layout=compact" alt="rumeysayuk :: Top Langs" />
+</p>
 
 <br/>  
 
