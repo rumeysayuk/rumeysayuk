@@ -13,15 +13,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&theme=synthwave" alt="rumeysayuk :: Profile Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysayuk&langs_count=108&theme=tokyonight&layout=compact" alt="rumeysayuk :: Top Langs" />
 </p>
-
-<br/>  
-
-
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 ### Frontend  
 <div align="center">  
