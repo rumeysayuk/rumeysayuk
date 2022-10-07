@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rümeysa,ı'am software  developer 👨‍💻 ı'am interested coding since 2019 🚀</div>  
 
 
-- 🌱 I’m currently learning javascript and .net tecnologies  
+- 🌱 I’m currently learning javascript and web3
 - ## I am interested in natural language processing.I am using python,nltk...
 
   <h2 align="center">Github stats :bar_chart:</h2>
