@@ -7,7 +7,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/r%c3%bcmeysa-y%c3%bck-532371199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r%c3%bcmeysa-y%c3%bck-532371199/" height="30" width="40" /></a>
 <a href="https://instagram.com/rumeysayuk1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumeysayuk1/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeysayuk&show_icons=true&locale=en&layout=compact" alt="rumeysayuk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&locale=en" alt="rumeysayuk" /></p>
