@@ -69,6 +69,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rumeysayuk/rumeysayuk/output/snake.svg" alt="Snake animation" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&locale=en" alt="rumeysayuk" /></p>
 ###
