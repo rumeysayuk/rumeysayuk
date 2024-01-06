@@ -69,8 +69,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rumeysayuk/rumeysayuk/output/snake.svg" alt="Snake animation" />
 
 ###
